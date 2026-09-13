@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End--> 
