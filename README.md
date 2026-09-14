@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
