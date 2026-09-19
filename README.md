@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
