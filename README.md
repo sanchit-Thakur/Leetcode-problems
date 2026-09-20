@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0268-missing-number](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0268-missing-number) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0268-missing-number) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -82,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End--> 
