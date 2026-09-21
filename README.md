@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
