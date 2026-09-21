@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0344-reverse-string) |
