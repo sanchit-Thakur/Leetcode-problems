@@ -1,108 +1,109 @@
-# Leetcode-solution
-A collection of LeetCode questions to ace the coding interview!
+# 🧩 LeetCode Solutions & Interview Prep
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0001-two-sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0042-trapping-rain-water](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0042-trapping-rain-water) |
-| [0075-sort-colors](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0075-sort-colors) |
-| [0189-rotate-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0189-rotate-array) |
-| [0215-kth-largest-element-in-an-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
-| [0268-missing-number](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0268-missing-number) |
-| [0628-maximum-product-of-three-numbers](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
-| [1480-running-sum-of-1d-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
-| [2733-neither-minimum-nor-maximum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
-| [3471-find-the-largest-almost-missing-integer](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0001-two-sum) |
-| [0076-minimum-window-substring](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0076-minimum-window-substring) |
-| [0268-missing-number](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0268-missing-number) |
-| [3471-find-the-largest-almost-missing-integer](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0042-trapping-rain-water](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0042-trapping-rain-water) |
-| [0075-sort-colors](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0075-sort-colors) |
-| [0189-rotate-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0189-rotate-array) |
-| [0344-reverse-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0344-reverse-string) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0042-trapping-rain-water) |
-## Stack
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0042-trapping-rain-water) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0042-trapping-rain-water) |
-## String
-|  |
-| ------- |
-| [0076-minimum-window-substring](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0076-minimum-window-substring) |
-| [0344-reverse-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0344-reverse-string) |
-| [0709-to-lower-case](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0709-to-lower-case) |
-## Sliding Window
-|  |
-| ------- |
-| [0076-minimum-window-substring](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0076-minimum-window-substring) |
-## Prefix Sum
-|  |
-| ------- |
-| [1480-running-sum-of-1d-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
-## Concurrency
-|  |
-| ------- |
-| [1114-print-in-order](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1114-print-in-order) |
-| [1195-fizz-buzz-multithreaded](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1195-fizz-buzz-multithreaded) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
-## Sorting
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0075-sort-colors) |
-| [0215-kth-largest-element-in-an-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
-| [0268-missing-number](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0268-missing-number) |
-| [0628-maximum-product-of-three-numbers](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
-| [2733-neither-minimum-nor-maximum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
-## Quickselect
-|  |
-| ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
-## Quicksort
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0075-sort-colors) |
-## Bubble Sort
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0075-sort-colors) |
-## Math
-|  |
-| ------- |
-| [0189-rotate-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0189-rotate-array) |
-| [0268-missing-number](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0268-missing-number) |
-| [0628-maximum-product-of-three-numbers](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
-## Binary Search
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0268-missing-number) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0268-missing-number) |
-<!---LeetCode Topics End--> 
+A structured repository tracking my solutions to LeetCode algorithm and data structure problems, designed for coding interview preparation.
+
+---
+
+## 📊 Overview & Stats
+
+<div align="center">
+
+| Total Solved | Languages | Primary Focus |
+| :---: | :---: | :---: |
+| **11+** | C++ / Java / Python | Data Structures & Algorithms |
+
+</div>
+
+
+```
+
+Progress: [███░░░░░░░░░░░░░░░░░]
+Topics Covered: Arrays • Hash Tables • Two Pointers • DP • Stacks • Strings
+
+```
+
+---
+
+## 📂 Topics & Solved Problems
+
+<details open>
+<summary><h3>📌 Array</h3></summary>
+
+| # | Problem | Solution Link | Difficulty |
+| :-: | :-- | :-: | :-: |
+| 0001 | Two Sum | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0001-two-sum) | Easy |
+| 0026 | Remove Duplicates from Sorted Array | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) | Easy |
+| 0042 | Trapping Rain Water | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0042-trapping-rain-water) | Hard |
+| 0075 | Sort Colors | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0075-sort-colors) | Medium |
+| 0189 | Rotate Array | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0189-rotate-array) | Medium |
+| 0215 | Kth Largest Element in an Array | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) | Medium |
+| 0268 | Missing Number | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0268-missing-number) | Easy |
+| 0628 | Maximum Product of Three Numbers | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) | Easy |
+| 1480 | Running Sum of 1D Array | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) | Easy |
+| 2733 | Neither Minimum nor Maximum | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) | Easy |
+| 3471 | Find the Largest Almost Missing Integer | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) | Easy |
+
+</details>
+
+<details>
+<summary><h3>🔑 Hash Table</h3></summary>
+
+| # | Problem | Solution Link | Difficulty |
+| :-: | :-- | :-: | :-: |
+| 0001 | Two Sum | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0001-two-sum) | Easy |
+| 0076 | Minimum Window Substring | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0076-minimum-window-substring) | Hard |
+| 0268 | Missing Number | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0268-missing-number) | Easy |
+| 3471 | Find the Largest Almost Missing Integer | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) | Easy |
+
+</details>
+
+<details>
+<summary><h3>👉 Two Pointers</h3></summary>
+
+| # | Problem | Solution Link | Difficulty |
+| :-: | :-- | :-: | :-: |
+| 0026 | Remove Duplicates from Sorted Array | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) | Easy |
+| 0042 | Trapping Rain Water | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0042-trapping-rain-water) | Hard |
+| 0075 | Sort Colors | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0075-sort-colors) | Medium |
+| 0189 | Rotate Array | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0189-rotate-array) | Medium |
+| 0344 | Reverse String | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0344-reverse-string) | Easy |
+
+</details>
+
+<details>
+<summary><h3>📈 Dynamic Programming</h3></summary>
+
+| # | Problem | Solution Link | Difficulty |
+| :-: | :-- | :-: | :-: |
+| 0042 | Trapping Rain Water | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0042-trapping-rain-water) | Hard |
+
+</details>
+
+<details>
+<summary><h3>🥞 Stack & Monotonic Stack</h3></summary>
+
+| # | Problem | Solution Link | Difficulty |
+| :-: | :-- | :-: | :-: |
+| 0042 | Trapping Rain Water (Stack) | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0042-trapping-rain-water) | Hard |
+
+</details>
+
+<details>
+<summary><h3>🔤 String</h3></summary>
+
+| # | Problem | Solution Link | Difficulty |
+| :-: | :-- | :-: | :-: |
+| 0076 | Minimum Window Substring | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0076-minimum-window-substring) | Hard |
+| 0344 | Reverse String | [View Solution](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0344-reverse-string) | Easy |
+
+</details>
+
+---
+
+## 🛠️ Repository Structure
+
+Each problem folder contains:
+- **`README.md`**: Problem statement, constraints, and examples directly synced from LeetCode.
+- **Source Code**: Documented, optimized solution with time and space complexity analysis.
+
+```
