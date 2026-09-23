@@ -107,3 +107,15 @@ Each problem folder contains:
 - **Source Code**: Documented, optimized solution with time and space complexity analysis.
 
 ```
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0704-binary-search) |
+<!---LeetCode Topics End-->
