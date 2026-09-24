@@ -114,6 +114,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0283-move-zeroes](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0704-binary-search) |
 ## Binary Search
@@ -125,4 +126,12 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
