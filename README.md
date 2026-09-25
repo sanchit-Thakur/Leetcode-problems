@@ -118,6 +118,7 @@ Each problem folder contains:
 | [0054-spiral-matrix](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0283-move-zeroes](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0704-binary-search) |
+| [1834-single-threaded-cpu](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1834-single-threaded-cpu) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,4 +141,12 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0054-spiral-matrix) |
+## Sorting
+|  |
+| ------- |
+| [1834-single-threaded-cpu](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1834-single-threaded-cpu) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1834-single-threaded-cpu](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1834-single-threaded-cpu) |
 <!---LeetCode Topics End-->
