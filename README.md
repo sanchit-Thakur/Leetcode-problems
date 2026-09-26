@@ -129,6 +129,7 @@ Each problem folder contains:
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0283-move-zeroes) |
 ## Math
 |  |
@@ -165,5 +166,6 @@ Each problem folder contains:
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
