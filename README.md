@@ -119,6 +119,7 @@ Each problem folder contains:
 | [0054-spiral-matrix](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0704-binary-search) |
 | [1834-single-threaded-cpu](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1834-single-threaded-cpu) |
@@ -172,4 +173,8 @@ Each problem folder contains:
 | [0049-group-anagrams](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
