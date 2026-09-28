@@ -177,6 +177,7 @@ Each problem folder contains:
 | [0151-reverse-words-in-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0680-valid-palindrome-ii) |
+| [1446-consecutive-characters](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1446-consecutive-characters) |
 ## Prefix Sum
 |  |
 | ------- |
