@@ -124,12 +124,14 @@ Each problem folder contains:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0704-binary-search) |
 | [1834-single-threaded-cpu](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1834-single-threaded-cpu) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0035-search-insert-position) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -138,6 +140,7 @@ Each problem folder contains:
 | [0125-valid-palindrome](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
@@ -160,6 +163,7 @@ Each problem folder contains:
 | [0018-4sum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1834-single-threaded-cpu](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1834-single-threaded-cpu) |
 ## Heap (Priority Queue)
@@ -177,6 +181,7 @@ Each problem folder contains:
 | [0001-two-sum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
