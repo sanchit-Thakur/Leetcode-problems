@@ -125,6 +125,7 @@ Each problem folder contains:
 | [0238-product-of-array-except-self](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0704-binary-search) |
 | [1834-single-threaded-cpu](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1834-single-threaded-cpu) |
 ## Binary Search
@@ -185,6 +186,7 @@ Each problem folder contains:
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -205,6 +207,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
 | ------- |
