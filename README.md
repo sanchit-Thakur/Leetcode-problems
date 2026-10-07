@@ -125,6 +125,7 @@ Each problem folder contains:
 | [0238-product-of-array-except-self](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
