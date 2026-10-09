@@ -123,6 +123,7 @@ Each problem folder contains:
 | [0059-spiral-matrix-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
@@ -174,6 +175,7 @@ Each problem folder contains:
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1834-single-threaded-cpu](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1834-single-threaded-cpu) |
 ## Dynamic Programming
@@ -227,6 +229,7 @@ Each problem folder contains:
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -246,6 +249,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
@@ -259,4 +263,12 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0146-lru-cache) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
