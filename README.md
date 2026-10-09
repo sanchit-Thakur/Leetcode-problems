@@ -186,6 +186,7 @@ Each problem folder contains:
 | [0001-two-sum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -246,4 +247,16 @@ Each problem folder contains:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
