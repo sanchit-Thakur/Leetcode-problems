@@ -153,6 +153,7 @@ Each problem folder contains:
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
@@ -257,6 +258,7 @@ Each problem folder contains:
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -274,4 +276,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
