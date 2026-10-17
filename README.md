@@ -157,6 +157,7 @@ Each problem folder contains:
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
@@ -187,6 +188,7 @@ Each problem folder contains:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -294,4 +296,8 @@ Each problem folder contains:
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
