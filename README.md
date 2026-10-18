@@ -188,6 +188,7 @@ Each problem folder contains:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -211,6 +212,7 @@ Each problem folder contains:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0125-valid-palindrome) |
@@ -300,4 +302,12 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
