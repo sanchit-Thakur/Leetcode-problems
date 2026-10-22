@@ -156,6 +156,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0070-climbing-stairs) |
 ## Matrix
