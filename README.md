@@ -213,6 +213,7 @@ Each problem folder contains:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0058-length-of-last-word) |
@@ -310,6 +311,7 @@ Each problem folder contains:
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0022-generate-parentheses) |
 ## Tree
 |  |
@@ -334,4 +336,8 @@ Each problem folder contains:
 | [0100-same-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
