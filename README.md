@@ -128,6 +128,7 @@ Each problem folder contains:
 | [0283-move-zeroes](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -203,6 +204,7 @@ Each problem folder contains:
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -340,4 +342,9 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
