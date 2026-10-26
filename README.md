@@ -225,6 +225,7 @@ Each problem folder contains:
 | [0387-first-unique-character-in-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0680-valid-palindrome-ii) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1446-consecutive-characters](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1446-consecutive-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
@@ -343,6 +344,7 @@ Each problem folder contains:
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
