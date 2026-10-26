@@ -171,6 +171,7 @@ Each problem folder contains:
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -228,6 +229,7 @@ Each problem folder contains:
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1446-consecutive-characters](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1446-consecutive-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -345,6 +347,7 @@ Each problem folder contains:
 | [0020-valid-parentheses](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
