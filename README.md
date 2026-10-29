@@ -136,6 +136,7 @@ Each problem folder contains:
 | [1834-single-threaded-cpu](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1834-single-threaded-cpu) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,6 +231,7 @@ Each problem folder contains:
 | [1446-consecutive-characters](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1446-consecutive-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -260,6 +262,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -300,11 +303,13 @@ Each problem folder contains:
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -324,12 +329,14 @@ Each problem folder contains:
 | [0100-same-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -352,4 +359,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
