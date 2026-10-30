@@ -189,6 +189,7 @@ Each problem folder contains:
 | [0239-sliding-window-maximum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1834-single-threaded-cpu](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1834-single-threaded-cpu) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Each problem folder contains:
 | [2351-first-letter-to-appear-twice](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -363,4 +365,12 @@ Each problem folder contains:
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
