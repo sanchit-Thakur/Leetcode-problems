@@ -136,6 +136,7 @@ Each problem folder contains:
 | [1834-single-threaded-cpu](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1834-single-threaded-cpu) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search
 |  |
@@ -167,6 +168,7 @@ Each problem folder contains:
 | [0048-rotate-image](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3665-twisted-mirror-path-count) |
 ## Simulation
 |  |
 | ------- |
@@ -196,6 +198,7 @@ Each problem folder contains:
 | [0022-generate-parentheses](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3665-twisted-mirror-path-count](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
 |  |
 | ------- |
