@@ -266,6 +266,7 @@ Each problem folder contains:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bucket Sort
@@ -367,6 +368,7 @@ Each problem folder contains:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
 |  |
