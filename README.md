@@ -134,6 +134,7 @@ Each problem folder contains:
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [1834-single-threaded-cpu](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1834-single-threaded-cpu) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -170,6 +171,7 @@ Each problem folder contains:
 | [0048-rotate-image](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [3665-twisted-mirror-path-count](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3665-twisted-mirror-path-count) |
 ## Simulation
 |  |
