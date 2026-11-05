@@ -134,6 +134,7 @@ Each problem folder contains:
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1672-richest-customer-wealth](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [1834-single-threaded-cpu](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1834-single-threaded-cpu) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -147,6 +148,7 @@ Each problem folder contains:
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +159,7 @@ Each problem folder contains:
 | [0283-move-zeroes](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0680-valid-palindrome-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -188,6 +191,7 @@ Each problem folder contains:
 | [0242-valid-anagram](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1834-single-threaded-cpu](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1834-single-threaded-cpu) |
 ## Heap (Priority Queue)
 |  |
