@@ -146,6 +146,7 @@ Each problem folder contains:
 | ------- |
 | [0035-search-insert-position](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -386,4 +387,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
