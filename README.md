@@ -133,6 +133,7 @@ Each problem folder contains:
 | [0704-binary-search](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1267-count-servers-that-communicate](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1672-richest-customer-wealth](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1672-richest-customer-wealth) |
@@ -175,6 +176,7 @@ Each problem folder contains:
 | [0048-rotate-image](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
+| [1267-count-servers-that-communicate](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [3665-twisted-mirror-path-count](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3665-twisted-mirror-path-count) |
 ## Simulation
@@ -271,6 +273,7 @@ Each problem folder contains:
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -351,12 +354,14 @@ Each problem folder contains:
 | [0100-same-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1267-count-servers-that-communicate](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0112-path-sum) |
+| [1267-count-servers-that-communicate](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -391,4 +396,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
