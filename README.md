@@ -170,6 +170,7 @@ Each problem folder contains:
 | [0048-rotate-image](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
 |  |
 | ------- |
@@ -259,6 +260,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0680-valid-palindrome-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Trie
 |  |
 | ------- |
