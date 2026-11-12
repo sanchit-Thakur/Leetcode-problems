@@ -140,6 +140,7 @@ Each problem folder contains:
 | [1834-single-threaded-cpu](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1834-single-threaded-cpu) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3665-twisted-mirror-path-count](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search
