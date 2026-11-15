@@ -131,6 +131,7 @@ Each problem folder contains:
 | [0496-next-greater-element-i](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1267-count-servers-that-communicate](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1267-count-servers-that-communicate) |
@@ -150,6 +151,7 @@ Each problem folder contains:
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
@@ -403,4 +405,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1267-count-servers-that-communicate) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
