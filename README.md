@@ -174,6 +174,7 @@ Each problem folder contains:
 | [0007-reverse-integer](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -191,6 +192,7 @@ Each problem folder contains:
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0067-add-binary) |
 | [2390-removing-stars-from-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
@@ -243,6 +245,7 @@ Each problem folder contains:
 | [0022-generate-parentheses](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0242-valid-anagram) |
@@ -286,6 +289,7 @@ Each problem folder contains:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
