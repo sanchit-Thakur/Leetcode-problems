@@ -181,6 +181,7 @@ Each problem folder contains:
 | [0067-add-binary](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3360-stone-removal-game](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3360-stone-removal-game) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
 |  |
@@ -198,6 +199,7 @@ Each problem folder contains:
 | [0059-spiral-matrix-ii](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/0067-add-binary) |
 | [2390-removing-stars-from-a-string](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/sanchit-Thakur/Leetcode-problems/tree/master/3360-stone-removal-game) |
 ## Sorting
 |  |
 | ------- |
